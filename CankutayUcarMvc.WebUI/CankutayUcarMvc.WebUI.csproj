@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CankutayUcarMvc.Business\CankutayUcarMvc.Business.csproj" />
+    <ProjectReference Include="..\CankutayUcarMvc.Model\CankutayUcarMvc.Model.csproj" />
+  </ItemGroup>
+
 </Project>

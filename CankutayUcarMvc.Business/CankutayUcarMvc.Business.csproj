@@ -9,4 +9,9 @@
     <Folder Include="abstract\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CankutayUcarMvc.DataAccess\CankutayUcarMvc.DataAccess.csproj" />
+    <ProjectReference Include="..\CankutayUcarMvc.Model\CankutayUcarMvc.Model.csproj" />
+  </ItemGroup>
+
 </Project>

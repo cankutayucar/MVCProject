@@ -7,7 +7,14 @@
   <ItemGroup>
     <Folder Include="concrete\" />
     <Folder Include="abstract\" />
-    <Folder Include="contexts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CankutayUcarMvc.Model\CankutayUcarMvc.Model.csproj" />
   </ItemGroup>
 
 </Project>
