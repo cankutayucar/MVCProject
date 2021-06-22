@@ -5,11 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Concrete\" />
-    <Folder Include="Abstract\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CankutayUcarMvc.DataAccess\CankutayUcarMvc.DataAccess.csproj" />
     <ProjectReference Include="..\CankutayUcarMvc.Model\CankutayUcarMvc.Model.csproj" />
   </ItemGroup>

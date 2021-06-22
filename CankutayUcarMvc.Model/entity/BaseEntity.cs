@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CankutayUcarMvc.Model.entity
 {
-    public class BaseEntity
+    public abstract class BaseEntity
     {
         public int ID { get; set; }
     }
