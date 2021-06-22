@@ -1,0 +1,9 @@
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Model.deps.json
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Model.dll
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Model.pdb
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Model.csproj.AssemblyReference.cache
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Model.AssemblyInfoInputs.cache
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Model.AssemblyInfo.cs
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Model.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Model.dll
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Model\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Model.pdb

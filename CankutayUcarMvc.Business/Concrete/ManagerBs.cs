@@ -8,7 +8,7 @@ using System.Text;
 
 namespace CankutayUcarMvc.Business.Concrete
 {
-    class ManagerBs : IManagerBs
+    public class ManagerBs : IManagerBs
     {
         private readonly IManagerRepository _bs;
         public ManagerBs(IManagerRepository bs)

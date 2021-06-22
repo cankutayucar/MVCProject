@@ -8,7 +8,7 @@ using System.Text;
 
 namespace CankutayUcarMvc.Business.Concrete
 {
-    class ProductBs : IProductBs
+    public class ProductBs : IProductBs
     {
         private readonly IProductRepository _bs;
         public ProductBs(IProductRepository bs)

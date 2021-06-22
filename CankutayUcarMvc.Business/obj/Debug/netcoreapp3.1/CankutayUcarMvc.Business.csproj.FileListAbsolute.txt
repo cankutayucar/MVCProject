@@ -1,0 +1,14 @@
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Business.deps.json
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Business.dll
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Business.pdb
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\bin\Debug\netcoreapp3.1\CankutayUcarMvc.DataAccess.dll
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Model.dll
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\bin\Debug\netcoreapp3.1\CankutayUcarMvc.DataAccess.pdb
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\bin\Debug\netcoreapp3.1\CankutayUcarMvc.Model.pdb
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Business.csproj.AssemblyReference.cache
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Business.AssemblyInfoInputs.cache
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Business.AssemblyInfo.cs
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Business.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Business.csproj.CopyComplete
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Business.dll
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.Business\obj\Debug\netcoreapp3.1\CankutayUcarMvc.Business.pdb
