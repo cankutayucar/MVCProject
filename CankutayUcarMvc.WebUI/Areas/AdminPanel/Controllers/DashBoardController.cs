@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CankutayUcarMvc.WebUI.ActionFilter;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace CankutayUcarMvc.WebUI.Areas.AdminPanel.Controllers
     [Area("AdminPanel")]
     public class DashBoardController : Controller
     {
+        [AdminLogIn]
         public IActionResult Index()
         {
             return View();
