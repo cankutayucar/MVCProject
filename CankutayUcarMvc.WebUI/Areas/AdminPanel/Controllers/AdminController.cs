@@ -1,6 +1,8 @@
 ﻿using CankutayUcarMvc.Business.Abstract;
 using CankutayUcarMvc.Model.entity;
 using CankutayUcarMvc.Model.ViewModels;
+using CankutayUcarMvc.WebUI.Helper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -52,6 +54,9 @@ namespace CankutayUcarMvc.WebUI.Areas.AdminPanel.Controllers
                     Response.Cookies.Delete("UserNameCK_UN");
                     Response.Cookies.Delete("PasswordCK_PW");
                 }
+
+                HttpContext.Session.SetObject(mg, "ActiveManager");
+
                 return Json(new { isok = true });
             }
             else

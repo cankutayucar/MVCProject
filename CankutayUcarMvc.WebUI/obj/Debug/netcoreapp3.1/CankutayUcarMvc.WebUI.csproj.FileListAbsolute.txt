@@ -426,3 +426,5 @@ C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.WebUI\
 C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.WebUI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.WebUI\obj\Debug\netcoreapp3.1\CankutayUcarMvc.WebUI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Admin\LogIn.cshtml.g.cs
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CAN\Desktop\dotnetcoremvcproject\CankutayUcarMvc\CankutayUcarMvc.WebUI\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\DashBoard\Index.cshtml.g.cs

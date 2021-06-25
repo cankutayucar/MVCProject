@@ -70,6 +70,12 @@ namespace CankutayUcarMvc.WebUI
                     pattern: "admin",
                     defaults: new { controller = "Admin", action = "LogIn" });
 
+                endpoints.MapAreaControllerRoute(
+                    name: "AdminPanelDashBoard",
+                    areaName: "AdminPanel",
+                    pattern: "dashboard",
+                    defaults: new { controller = "DashBoard", action = "Index" });
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
