@@ -65,6 +65,21 @@ namespace CankutayUcarMvc.WebUI.Areas.AdminPanel.Controllers
             }
         }
 
+        [HttpPost]
+        public IActionResult ForgotPassword(AdminForgotPasswordVm vm)
+        {
+            Manager mg = _managerBs.Get(x => x.Email == vm.EmailAddress);
+            if (mg != null)
+            {
+                return Json(new { isok = true, message = "email başarıyla gönderildi" });
+            }
+            else
+            {
+                return Json(new { isok = false, message = "gönderme işlemi sırasında bir hata oluştu" });
+            }
+        }
+
+
 
     }
 }
